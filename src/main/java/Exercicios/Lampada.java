@@ -13,4 +13,3 @@ public class Lampada {
         return energizada;
     }
 }
-//teste
