@@ -1,4 +1,4 @@
-package Exercicios;
+package Lampada;
 
 public class Lampada {
     private boolean energizada;

@@ -1,4 +1,4 @@
-package Exercicios;
+package Lampada;
 
 public class MainLampada {
     public static void main(String[] args) {
