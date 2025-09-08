@@ -20,9 +20,7 @@ public class Data {
 
     }
 
-    public String mostrarData(){
-        return String.format("%02d/%02d/%04d", dia, mes, ano);
-    }
+
 
     private boolean dataValida(int d, int m, int a){
         if(a<=0) return false;
@@ -43,5 +41,8 @@ public class Data {
     }
     private boolean bissexto(int a){
         return(a % 4 == 0 && a % 100 != 0) || (a % 400 == 0);
+    }
+    public String mostrarData(){
+        return String.format("%02d/%02d/%04d", dia, mes, ano);
     }
 }
