@@ -1,4 +1,4 @@
-package Data;
+package Exercicios.Data;
 
 public class Data {
     private int dia;

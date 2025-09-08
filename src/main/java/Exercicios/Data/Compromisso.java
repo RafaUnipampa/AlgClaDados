@@ -1,4 +1,4 @@
-package Data;
+package Exercicios.Data;
 
 public class Compromisso{
     private String descricao;

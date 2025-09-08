@@ -1,4 +1,4 @@
-package Data;
+package Exercicios.Data;
 
 public class MainAgenda {
     public static void main(String[] args) {

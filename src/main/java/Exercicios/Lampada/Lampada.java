@@ -1,4 +1,4 @@
-package Lampada;
+package Exercicios.Lampada;
 
 public class Lampada {
     private boolean energizada;

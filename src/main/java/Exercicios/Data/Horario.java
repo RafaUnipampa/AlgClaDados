@@ -1,4 +1,4 @@
-package Data;
+package Exercicios.Data;
 
 public class Horario {
     private int hora;

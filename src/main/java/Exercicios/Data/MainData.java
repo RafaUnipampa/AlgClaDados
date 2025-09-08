@@ -1,4 +1,4 @@
-package Data;
+package Exercicios.Data;
 import java.util.Scanner;
 public class MainData {
     public static void main(String[] args) {
