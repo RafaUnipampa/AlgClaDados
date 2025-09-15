@@ -46,7 +46,4 @@ O objetivo é registrar todos os conteúdos estudados, incluindo **POO, estrutur
   - Todos os pares: Floyd–Warshall.
   - Fluxo Máximo: Ford–Fulkerson.
 
----
-
-## 📂 Estrutura do Repositório
 
